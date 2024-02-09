@@ -1,7 +1,5 @@
-==================
 Link to deployed application with Netlify:
 https://main--candid-lily-d4b7d1.netlify.app/
-==================
 
 # React + Vite
 
