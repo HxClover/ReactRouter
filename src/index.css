@@ -22,6 +22,7 @@ body > div {
 #navbar {
 	padding: 2em;
 	justify-content: space-evenly;
+	background-color: rgb(255, 255, 253);
 }
 
 #main-section {
@@ -42,5 +43,21 @@ body > div {
 
 .blue {
 	background-color: #275db3;
+	color: white;
+}
+
+.home {
+	background-color: mediumpurple;
+	color: white;
+}
+
+#footer {
+	padding: 1em;
+	justify-content: space-evenly;
+	background-color: rgb(255, 255, 253);
+}
+
+.green {
+	background-color: darkgreen;
 	color: white;
 }
